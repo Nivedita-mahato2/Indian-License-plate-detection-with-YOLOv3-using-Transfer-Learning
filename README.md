@@ -24,7 +24,7 @@ To make sure than everything run smoothly, it is recommended to keep the origina
 
 # Results
 
-![1](https://github.com/anmoltiwari05/Indian-License-plate-detection-with-YOLOv3-using-Transfer-Learning/blob/master/Demo%20Testing/Detected%20Images/Capture1_licensePlate.jpg?width:50% "Detected Image")
+![1](https://github.com/anmoltiwari05/Indian-License-plate-detection-with-YOLOv3-using-Transfer-Learning/blob/master/Demo%20Testing/Detected%20Images/Capture1_licensePlate.jpg? width:50% "Detected Image")
 
 
 # Acknowledgements
