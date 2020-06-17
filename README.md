@@ -28,4 +28,4 @@ To make sure than everything run smoothly, it is recommended to keep the origina
 
 
 # Acknowledgements
-Huge thanks to Anton Muehlemann for his repository to train YOLO from scratch. This repo makes use of https://github.com/AntonMu/TrainYourOwnYOLO
+Huge thanks to [Anton Muehlemann](https://github.com/AntonMu) for his repository to train YOLO from scratch. This repo makes use of https://github.com/AntonMu/TrainYourOwnYOLO
