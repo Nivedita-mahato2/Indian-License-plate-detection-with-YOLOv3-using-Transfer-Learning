@@ -24,8 +24,9 @@ To make sure than everything run smoothly, it is recommended to keep the origina
 
 # Results
 
-![1](https://github.com/anmoltiwari05/Indian-License-plate-detection-with-YOLOv3-using-Transfer-Learning/blob/master/Demo%20Testing/Detected%20Images/Capture1_licensePlate.jpg? width:50% "Detected Image")
+<img src="Demo Testing/Testing Images/Capture1.jpg" alt="1" width="350"/> &emsp; &emsp; &emsp; <img src="Demo Testing/Detected Images/Capture1_licensePlate.jpg" alt="1" width="350"/>
 
+<img src="Demo Testing/Testing Images/Capture.jpg" alt="2" width="350"/> &emsp; &emsp; &emsp; <img src="Demo Testing/Detected Images/Capture_licensePlate.jpg" alt="2" width="350"/>
 
 # Acknowledgements
 Huge thanks to [Anton Muehlemann](https://github.com/AntonMu) for his repository to train YOLO from scratch. This repo makes use of https://github.com/AntonMu/TrainYourOwnYOLO
