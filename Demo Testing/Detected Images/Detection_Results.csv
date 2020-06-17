@@ -1,0 +1,4 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+Capture2.jpg,/content/gdrive/My Drive/ILPR/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Capture2.jpg,320,371,508,436,0,0.45084282755851746,747,563
+Capture1.jpg,/content/gdrive/My Drive/ILPR/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Capture1.jpg,378,258,640,372,0,0.9507124423980713,753,559
+Capture.jpg,/content/gdrive/My Drive/ILPR/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Capture.jpg,277,223,519,335,0,0.9799014329910278,753,567
