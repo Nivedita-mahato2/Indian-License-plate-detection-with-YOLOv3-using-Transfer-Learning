@@ -15,16 +15,16 @@ This repo helps in Image Segmentation of Indian License Plates using state-of-th
 
 To train your own ILPR using YOLO object detector please run these files in order on Collab:
 
-ILPR_0_GettingStarted.ipynb
-ILPR_1_ImageAnnotation.ipynb
-ILPR_2_Training.ipynb
-ILPR_3_Inference.ipynb
+-ILPR_0_GettingStarted.ipynb
+-ILPR_1_ImageAnnotation.ipynb
+-ILPR_2_Training.ipynb
+-ILPR_3_Inference.ipynb
 
 To make sure than everything run smoothly, it is recommended to keep the original folder structure of this repo!
 
 # Results
 
-![blob](https://github.com/anmoltiwari05/Indian-License-plate-detection-with-YOLOv3-using-Transfer-Learning/blob/master/Demo%20Testing/Detected%20Images/Capture1_licensePlate.jpg? "Title")
+![1](https://github.com/anmoltiwari05/Indian-License-plate-detection-with-YOLOv3-using-Transfer-Learning/blob/master/Demo%20Testing/Detected%20Images/Capture1_licensePlate.jpg? width=50% "Detected Image")
 
 
 # Acknowledgements
