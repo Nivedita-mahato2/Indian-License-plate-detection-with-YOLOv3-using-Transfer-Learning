@@ -3,9 +3,9 @@ This repo helps in Image Segmentation of Indian License Plates using state-of-th
 
 # Pipeline Overview
 
-1. Getting started: Upload the vott-csv-export data folder in your Google Drive. Clone the https://github.com/AntonMu/TrainYourOwnYOLO in your Google Drive using Colab. This repo let's you train a custom image detector. 
+1. Getting started: Upload the [vott-csv-export](vott-csv-export/) data folder in your Google Drive. Clone the https://github.com/AntonMu/TrainYourOwnYOLO in your Google Drive using Colab. This repo let's you train a custom image detector. 
 
-2. Image Annotation
+2. Image Annotation: Make sure that you've copied the [folder](vott-csv-export/) inside your gdrive @ ILPR/TrainYourOwnYOLO/Data/Source_Images/Training_Images/
 
 3. Training: Download pre-trained weights and tweaking the model according to our needs.
 
